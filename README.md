@@ -1,1 +1,1 @@
-# Home page of Instagram done in Html,Css
+# Home page of Instagram done in Html
